@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="sintomas" >
+                " 1. Febre baixa \n\n"
+
+                "A febre baixa, que pode variar entre 37,8°C e 38,5°C ocorre"
+                "porque com a entrada do vírus no organismo existe um aumento"
+                "da produção de anticorpos e este aumento eleva a temperatura"
+                "corporal, assim a febre não deve ser encarada como sendo algo"
+                "ruim.\n\n"
+
+                "2. Manchas vermelhas na pele\n\n"
+
+                "Estas ocorrem por todo corpo e apresentam-se ligeiramente"
+                "elevadas. Elas iniciam no rosto e depois se espalham pelo"
+                "corpo e algumas vezes podem ser confundidas com o sarampo ou"
+                "com a dengue. Diferentemente da dengue a Zika não pode causar"
+                "complicações hemorrágicas.\n\n"
+
+                "3. Coceira no corpo\n\n"
+
+                "Além das pequenas manchinhas na pele a Zika também provoca coceira"
+                "na pele na maioria dos casos, no entanto a coceira tende a diminuir"
+                "em 5 dias e pode ser tratada com anti-histamínicos receitados pelo"
+                "médico.\n\n"
+
+                "4. Dor nas articulações e nos músculos\n\n"
+
+                "A dor causada pelo Zika afeta todos os músculos do corpo, e ocorre"
+                "principalmente nas pequenas articulações das mãos e dos pés. Além"
+                "disso a região pode ficar levemente inchada e avermelhada.\n\n"
+
+                "5. Dor de cabeça\n\n"
+
+                "A dor de cabeça causada pelo Zika afeta principalmente a parte detrás"
+                "dos olhos, a pessoa pode ter a sensação que a cabeça está latejando,"
+                "mas em algumas pessoas a dor de cabeça não é muito forte.\n\n"
+
+                "6. Cansaço físico e mental\n\n"
+
+                "Com a atuação do sistema imune contra o vírus, há um maior gasto energético"
+                "e consequentemente a pessoa se sente mais cansada, com dificuldade para se"
+                "movimentar e se concentrar.\n\n"
+
+                "7. Vermelhidão e sensibilidade nos olhos\n\n"
+
+                "Esta vermelhidão é provocada pelo aumento da circulação sanguínea periorbital."
+                "Apesar de ser semelhante à conjuntivite não há qualquer secreção amarelada, embora"
+                "possa haver um ligeiro aumento da produção de lágrimas.\n\n"
+    </string>
+    <string name="pre">
+
+                "1) Elimine todos os focos de água parada\n\n"
+
+                "As autoridades brasileiras têm afirmado que a principal forma de combater"
+                "o zika é acabar com o mosquito que transmite o vírus. Para fazer isso, é"
+                "necessário eliminar todos os possíveis focos de reprodução do Aedes aegypti.\n\n"
+
+                "O mosquito precisa da água parada para colocar seus ovos, então qualquer lugar"
+                "que possa acumular o mínimo de água pode virar um foco da doença.\n\n"
+
+                "Isso inclui vasos de plantas, que às vezes ficam com água acumulada no prato,"
+                "potes de água de animais domésticos, garrafas – elas devem sempre ser mantidas"
+                "para baixo, assim como baldes -, e até poças de água da chuva no quintal ou na"
+                "calçada. Privadas sem tampa também podem ajudar a proliferar o mosquito – é sempre"
+                "preferível deixá-las com a tampa abaixada.\n\n"
+
+                "2) Use repelente\n\n"
+
+                "Para evitar ser picado pelo mosquito, a melhor estratégia é passar repelente em todas"
+                "as partes expostas do corpo.\n\n"
+
+                "O Centro de Prevenção e Controle de Doenças dos Estados Unidos (CDC) recomenda a"
+                "utilização de repelentes à base de icaridina.\n\n"
+
+                "A orientação é que se aplique o repelente regularmente, seguindo as instruções na"
+                "própria embalagem. Caso se utilize também o filtro solar, é importante passar o"
+                "repelente depois porque o protetor pode "mascarar" seus efeitos.\n\n"
+
+                "Mulheres grávidas também podem utilizar o repelente – mas é sempre bom conversar com o médico para ver"
+                "qual seria o mais adequado. Por conta do risco de microcefalia, é importante que as grávidas em especial"
+                "façam muito uso do repelente para evitar a picada do mosquito.\n\n"
+
+                "3) Use roupas compridas\n\n"
+
+                "A orientação dos especialistas – principalmente para mulheres grávidas – é que utilizem roupas que deixem"
+                "poucas partes do corpo expostas ao mosquito. Calças, blusas de manga comprida e roupas grossas para evitar"
+                "que ao picada por cima delas – o que pode ser um desafio em meio ao verão de altas temperaturas no Brasil."
+
+                "Há também algumas roupas especiais que contêm permetrina, um inseticida sintético incorporado ao tecido, mas"
+                "isso só está disponível para comprar em alguns países.\n\n"
+    </string>
+    <string name="tratar">
+                "Tratamento:\n\n"
+
+                "O tratamento para Zika vírus é muito semelhante ao da dengue, no entanto, em caso de Zika vírus,"
+                "o médico pode indicar o uso dos seguintes medicamentos:\n\n"
+
+                "1- Analgésicos como Paracetamol ou Dipirona, de 8 em 8 horas para combater a dor e a febre;\n"
+                "2- Anti-infamatórios como Ibuprofeno, de 8 em 8 horas, para diminuir as dores nas articulações e nos músculos;\n"
+                "3- Anti-alérgicos, como Loratadina, Cetirizina ou Hidroxizina para aliviar a vermelhidão na pele, nos olhos e a coceira no corpo;\n"
+                "4- Colírio lubrificante como Moura Brasil, para aplicar nos olhos 3 a 6 vezes ao dia.\n\n"
+
+                "Além dos remédios, é importante descansar durante 7 dias e fazer uma alimentação rica em vitaminas e minerais, além"
+                "de beber muita água, para se recuperar mais rápido.\n\n"
+
+                "Se for o seu bebê que esta com Zika, pode ser um pouco mais complicado identificar os sintomas, sendo por isso necessário"
+                "ficar bem atenta aos sinais que ele pode apresentar como febre e irritabilidade, o tratamento em bebês é ligeiramente diferente."
+                "Além disso, os remédios que contém ácido acetil salicílico não devem ser utilizados, assim como ocorre em caso de dengue, porque"
+                "eles podem aumentar o risco de hemorragias.\n\n"
+
+    </string>
+    <string name="oque">
+                "O que é Zika Vírus?\n\n"
+                "Zika Vírus é uma infecção causada pelo vírus ZIKV, transmitida pelo mosquito Aedes"
+                "aegypti, mesmo transmissor da dengue e da febre chikungunya. O vírus Zika teve sua primeira"
+                "aparição registrada em 1947, quando foi encontrado em macacos da Floresta Zika, em Uganda.\n\n"
+                "Entretanto, somente em 1954 os primeiros seres humanos foram contaminados, na Nigéria. O vírus"
+                "Zika atingiu a Oceania em 2007 e a França no ano de 2013. O Brasil notificou os primeiros casos de"
+                "Zika vírus em 2015, no Rio Grande do Norte e na Bahia."
+    </string>
+    <string name="causas">
+                "Causas\n\n"
+
+                "O contágio do vírus ZIKV se dá pelo mosquito que, após picar alguém contaminado, pode transportar o"
+                "ZIKV durante toda a sua vida, transmitindo a doença para uma população que não possui anticorpos contra ele.\n\n"
+
+                "O ciclo de transmissão ocorre do seguinte modo: a fêmea do mosquito deposita seus ovos em recipientes com água."
+                "Ao saírem dos ovos, as larvas vivem na água por cerca de uma semana. Após este período, transformam-se em mosquitos"
+                "adultos, prontos para picar as pessoas. O Aedes aegypti procria em velocidade prodigiosa e o mosquito adulto vive em"
+                "média 45 dias. Uma vez que o indivíduo é picado, demora no geral de 3 a 12 dias para o Zika vírus causar sintomas.\n\n"
+
+                "A transmissão do ZIKV raramente ocorre em temperaturas abaixo de 16° C, sendo que a mais propícia gira em torno de 30°"
+                "a 32° C - por isso ele se desenvolve em áreas tropicais e subtropicais. A fêmea coloca os ovos em condições adequadas"
+                "(lugar quente e úmido) e em 48 horas o embrião se desenvolve. É importante lembrar que os ovos que carregam o embrião do"
+                "mosquito transmissor da Zika Vírus podem suportar até um ano a seca e serem transportados por longas distâncias, grudados"
+                "nas bordas dos recipientes e esperando um ambiente úmido para se desenvolverem. Essa é uma das razões para a difícil erradicação"
+                "do mosquito. Para passar da fase do ovo até a fase adulta, o inseto demora dez dias, em média. Os mosquitos acasalam no primeiro"
+                "ou no segundo dia após se tornarem adultos. Depois, as fêmeas passam a se alimentar de sangue, que possui as proteínas necessárias"
+                "para o desenvolvimento dos ovos.\n\n"
+
+                "O mosquito Aedes aegypti mede menos de um centímetro, tem aparência inofensiva, cor café ou preta e listras brancas no corpo e nas"
+                "pernas. Costuma picar nas primeiras horas da manhã e nas últimas da tarde, evitando o sol forte. No entanto, mesmo nas horas quentes"
+                "ele pode atacar à sombra, dentro ou fora de casa. Há suspeitas de que alguns ataquem durante a noite. Normalmente isso ocorre quando"
+                "há um criadouro dentro de casa, pois o Aedes é mosquito oportunista, ou seja, se alimenta sempre que tem oportunidade. O indivíduo não"
+                "percebe a picada, pois não dói e nem coça no momento. Por ser um mosquito que voa baixo - até dois metros - é comum ele picar nos joelhos,"
+                "panturrilhas e pés.\n\n"
+
+    </string>
+</resources>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/new_screen"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.android.zika.MainActivity">
+
+
+    <TextView
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="#ffffff"
+        android:textAllCaps="true"
+        android:textSize="50sp"
+        android:fontFamily="Arial"
+        android:textStyle="bold"
+        android:gravity="center_horizontal"
+        android:text="ZIKA VÍRUS"/>
+
+    <Button
+        android:id="@+id/button_01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#283593"
+        android:text="  O que é?  "
+        android:textSize="20sp"
+        android:layout_marginTop="170dp"
+        android:padding="20dp"
+        android:textColor="#ffffff"
+        android:textAlignment="center"
+        android:layout_marginBottom="5dp"
+        android:onClick="button_oque"/>
+
+    <Button
+        android:id="@+id/button_02"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#283593"
+        android:text=" Causas  "
+        android:textSize="20sp"
+        android:layout_below="@id/button_01"
+        android:padding="20dp"
+        android:textAlignment="center"
+        android:textColor="#ffffff"
+        android:layout_marginBottom="5dp"
+        android:onClick="button_causas"/>
+
+    <Button
+        android:id="@+id/button_03"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#283593"
+        android:text=" Sintomas  "
+        android:textSize="20sp"
+        android:layout_below="@id/button_02"
+        android:padding="20dp"
+        android:textAlignment="center"
+        android:textColor="#ffffff"
+        android:layout_marginBottom="5dp"
+        android:onClick="button_sintomas"/>
+
+    <Button
+        android:id="@+id/button_04"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#283593"
+        android:text="  Preucações  "
+        android:textSize="20sp"
+        android:layout_below="@id/button_03"
+        android:padding="20dp"
+        android:textAlignment="center"
+        android:textColor="#ffffff"
+        android:layout_marginBottom="5dp"
+        android:onClick="button_preucacoes"/>
+
+    <Button
+        android:id="@+id/button_05"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#283593"
+        android:text="   Como tratar?   "
+        android:textSize="20sp"
+        android:layout_below="@id/button_04"
+        android:padding="20dp"
+        android:textAlignment="center"
+        android:textColor="#ffffff"
+        android:layout_marginBottom="5dp"
+        android:onClick="button_tratar"/>
+
+</RelativeLayout>
